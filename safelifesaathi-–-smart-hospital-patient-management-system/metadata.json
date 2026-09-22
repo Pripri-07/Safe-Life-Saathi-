@@ -1,0 +1,12 @@
+{
+  "name": "SafeLifeSaathi",
+  "description": "AI-powered patient assistance, smart OPD routing, prescription OCR explanation, vaccination reminders, intelligent patient queues, and real-time ambulance road-clearance notification system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
